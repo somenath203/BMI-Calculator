@@ -1,6 +1,6 @@
 # BMI Calculator
 
-This is a basic web-based Body-Mass-Index(BMI) calculator created using Html, CSS and PHP. 
+This is a basic web-based Body-Mass-Index(BMI) calculator created using Html, CSS, Javascript and PHP. 
 
 ## Setup
 ### Step 1
